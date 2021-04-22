@@ -7,6 +7,7 @@ Comparison for client seeking a secure in-house alternative to Google Docs.
 ## Tech Stack
 
 [Client](https://github.com/simon-cg/quill-demo-client) React, Vite, TypeScript, Socket.IO, Quill
+
 **Server:** Node, TypeScript, Mongoose, Socket.IO
 
   
